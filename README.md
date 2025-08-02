@@ -68,7 +68,7 @@ Default configuration values (set in code):
 This emulator does not include ROMs. You can find public domain CHIP-8 ROMs online, such as:
 - [CHIP-8 ROM Pack](https://github.com/chip8/roms)
 
-## 📦 Makefile Targets
+##  Makefile Targets
 
 - `make`: Builds the `chip8` executable
 - `make clean`: Removes the `chip8` binary
